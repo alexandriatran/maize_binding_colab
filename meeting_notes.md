@@ -71,4 +71,9 @@ maize_gene_annotation_table = pandas.read_csv("Zm-B73-REFERENCE-NAM-5.0_Zm00001e
 * I applied fall of 2019 and got into UCSD and UIUC, rejected from UWashington, Cold Spring Harbor, and later Duke. We can talk odds/good schools for your objectives.
 * Graduate fellowship resources (Alex has bank of personal and research statements available): https://www.nsfgrfp.org/
 
-
+#### Tuesday, March 28, 2023
+- Got response from John Portwood and Ethy about TF data for MaizeGDB, pointed to Grassius for data.
+- Grassius lacks comprehensive binding data and is not up to date with many ChIP-seq experiments
+- Useful template for goal table can be found at Grassius Downloads page in file Grassius_RegNet: https://grassius.org/download.php?download_file=Grassis_RegNet.xls
+- Mikhaiya will consider writing own algorithm for binding site location annotation or if Alex will provide basic pseudocode.
+- Learn the basics of logic flow in Python from this page: https://www.openbookproject.net/books/bpp4awd/ch04.html
